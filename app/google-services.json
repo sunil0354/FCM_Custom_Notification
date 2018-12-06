@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "667531872143",
+    "firebase_url": "https://fcmfirebaseproject-b81e7.firebaseio.com",
+    "project_id": "fcmfirebaseproject-b81e7",
+    "storage_bucket": "fcmfirebaseproject-b81e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667531872143:android:92c765262b934ef6",
+        "android_client_info": {
+          "package_name": "com.wegile.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667531872143-3lvjcst8j797r5vhjnmed2nsdfcu5d4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wegile.fcm",
+            "certificate_hash": "5108355f515e29fa04d1c258e256c68217ffc45e"
+          }
+        },
+        {
+          "client_id": "667531872143-h49ht5v8ervm4t2slut5uaccmm2krr55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1OilK7ZNBBCuFZeupf_U11jmddlG-l2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667531872143-h49ht5v8ervm4t2slut5uaccmm2krr55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
